@@ -3,7 +3,6 @@
 Chengxiang Qiu, M.S.
 Jay Shendure Lab Department of Genome Science
 University of Washington 
-Tel: 1-(215) 827 9684 
 E-mail: cxqiu@uw.edu
 [Google Scholar](https://scholar.google.com/citations?user=9lIRrzgAAAAJ&hl=en&oi=ao)
 
