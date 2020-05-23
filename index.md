@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Chengxiang Qiu
 
-You can use the [editor on GitHub](https://github.com/ChengxiangQiu/cxqiu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Chengxiang Qiu, M.S.
+Jay Shendure Lab Department of Genome Science
+University of Washington 
+Tel: 1-(215) 827 9684 
+E-mail: cxqiu@uw.edu
+[Google Scholar](https://scholar.google.com/citations?user=9lIRrzgAAAAJ&hl=en&oi=ao)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
+1. Systematic reconstruction of the cellular trajectories of mammalian embryogenesis.
+2. Analysis of GWAS variants, integrating with gene expression to identify regulatory mechanism underlying complex disease.
+3. Development of statistical models to improve current computational methods used on analyzing genomic data.
 
-### Markdown
+### Selected Publication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Qiu C, Huang S, Park J, Park Y, Ko YA, Seasock MJ, Bryer JS, Xu XX, Song W, Palmer M, Hill J, Guarnieri P, Hawkins J, Boustany-Kari CM, Pullen SS, Brown CD and Susztak K. Kidney compartment specific eQTL studies highlight causal genes and pathways for renal disease development. Nat Med. 2018 Nov;24(11):1721-1731.
+- Qiu C, Hanson RL, Fufaa G, Kobes S, Gluck C, Huang J, Chen Y, Raj D, Nelson RG, Knowler WC and Susztak K. Cytosine methylation predicts renal function decline in American Indians. Kidney Int. 2018;93:1417-1431.
+- Gluck C, Qiu C, Han SY, Palmer M, Park J, Ko YA, Guan Y, Sheng X, Hanson RL, Huang J, Chen Y, Park ASD, Izquierdo MC, Mantzaris I, Verma A, Pullman J, Li H, Susztak K. Kidney cytosine methylation changes improve renal function decline estimation in patients with diabetic kidney disease. Nat Commun. 2019 Jun 5;10(1):2461.
+- Park J, Shrestha R, Qiu C, Kondo A, Huang S, Werth M, Li M, Barasch J and Susztak K. Single-cell transcriptomics of the mouse kidney reveals potential cellular targets of kidney disease. Science. 2018;360:758-763.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChengxiangQiu/cxqiu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
