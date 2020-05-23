@@ -2,7 +2,9 @@
 
 Chengxiang Qiu, M.S.   
 
-Jay Shendure Lab Department of Genome Science
+Jay Shendure Lab 
+
+Department of Genome Science
 
 University of Washington 
 
