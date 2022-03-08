@@ -25,8 +25,5 @@ E-mail: cxqiu@uw.edu
 
 - Qiu C, Hanson RL, Fufaa G, Kobes S, Gluck C, Huang J, Chen Y, Raj D, Nelson RG, Knowler WC and Susztak K. Cytosine methylation predicts renal function decline in American Indians. Kidney Int. 2018;93:1417-1431.
 
-- Gluck C, Qiu C, Han SY, Palmer M, Park J, Ko YA, Guan Y, Sheng X, Hanson RL, Huang J, Chen Y, Park ASD, Izquierdo MC, Mantzaris I, Verma A, Pullman J, Li H, Susztak K. Kidney cytosine methylation changes improve renal function decline estimation in patients with diabetic kidney disease. Nat Commun. 2019 Jun 5;10(1):2461.
-
-- Park J, Shrestha R, Qiu C, Kondo A, Huang S, Werth M, Li M, Barasch J and Susztak K. Single-cell transcriptomics of the mouse kidney reveals potential cellular targets of kidney disease. Science. 2018;360:758-763.
 
 
