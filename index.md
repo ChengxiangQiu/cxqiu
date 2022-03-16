@@ -21,9 +21,13 @@ E-mail: cxqiu@uw.edu
 
 ### Selected Publication
 
-- Qiu C, Huang S, Park J, Park Y, Ko YA, Seasock MJ, Bryer JS, Xu XX, Song W, Palmer M, Hill J, Guarnieri P, Hawkins J, Boustany-Kari CM, Pullen SS, Brown CD and Susztak K. Kidney compartment specific eQTL studies highlight causal genes and pathways for renal disease development. Nat Med. 2018 Nov;24(11):1721-1731.
+- Qiu, Chengxiang, Junyue Cao, Beth K. Martin, Tony Li, Ian C. Welsh, Sanjay Srivatsan, Xingfan Huang, et al. 2022. “Systematic Reconstruction of Cellular Trajectories across Mouse Embryogenesis.” Nature Genetics 54 (3): 328–41.
 
-- Qiu C, Hanson RL, Fufaa G, Kobes S, Gluck C, Huang J, Chen Y, Raj D, Nelson RG, Knowler WC and Susztak K. Cytosine methylation predicts renal function decline in American Indians. Kidney Int. 2018;93:1417-1431.
+- Qiu, Chengxiang, and Jay Shendure. 2021. “A Continuous Model of Early Mammalian Development.” Nature.
+
+- Qiu, Chengxiang, Shizheng Huang, Jihwan Park, Yoson Park, Yi-An Ko, Matthew J. Seasock, Joshua S. Bryer, et al. 2018. “Renal Compartment-Specific Genetic Variation Analyses Identify New Pathways in Chronic Kidney Disease.” Nature Medicine 24 (11): 1721–31.
+
+- Qiu, Chengxiang, Robert L. Hanson, Gudeta Fufaa, Sayuko Kobes, Caroline Gluck, Jing Huang, Yong Chen, et al. 2018. “Cytosine Methylation Predicts Renal Function Decline in American Indians.” Kidney International 93 (6): 1417–31.
 
 
 
