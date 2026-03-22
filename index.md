@@ -21,7 +21,7 @@ Chengxiang (CX) Qiu is a computational biologist specializing in single-cell tra
 
 Qiu C\*\#, Martin BK\*, Welsh IC\*, Daza RM, Le TM, Huang X, Nichols EK, Taylor ML, Fulton O, O’Day DR, Gomes AR, Ilcisin S, Srivatsan S, Deng X, Disteche CM, Noble WS, Hamazaki N, Moens CB, Kimelman D, Cao J, Schier AF, Spielmann M, Murray SA, Trapnell C, Shendure J\#. A single-cell time-lapse of mouse prenatal development from gastrula to birth. Nature. 2024;626(8001):1084–93.
 
-Zukai Liu\*, Chengxiang Qiu\*, Connor A Kubo, Stella Xu, Riza M Daza, Eva Nichols, Wei Yang, Anh Vo, Mary B O’Neill, Choli Lee, Jay Shendure, Nobuhiko Hamazaki. Dual-patterned pluripotent stem cells self-organize into a human embryo model with extended anterior-posterior patterning. bioRxiv. 2025.
+Liu Z\*, Qiu C\*, Kubu C, Xu S, Daza RM, Nichols EK, Yang W, Vo A, O’Neill MB, Lee C, Shendure J, Hamazaki N. Dual-patterned pluripotent stem cells self-organize into a human embryo model with extended anterior-posterior patterning. bioRxiv. 2025.
 
 Regalado SG\*, Qiu C\*, Kottapalli S, Martin BK, Chen W, Liao H, Kim H, Li X, Lalanne J, Hamazaki N, Domcke S, Choi J#, Shendure J#. Lineage recording in monoclonal gastruloids reveals heritable modes of early development. bioRxiv. 2025.
 
